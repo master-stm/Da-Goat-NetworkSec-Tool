@@ -37,23 +37,22 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 
 ## Attacks Coverd
 - **Malware**: This includes viruses, worms, trojan horses, ransomware, spyware, adware, and fileless malware.
-- **Phishing Attacks**: Fraudulent attempts to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in an electronic communication.
-- **Man-in-the-Middle (MitM) Attacks**: These occur when attackers intercept and possibly alter the communication between two parties who believe they are directly communicating with each other.
-- **Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks**: DoS attacks overwhelm a system's resources, making it unable to respond to service requests, while DDoS attacks come from multiple sources, making them harder to block.
-- **SQL Injection**: An attack that involves inserting malicious SQL queries into an input field for execution, to manipulate or exploit the database behind the application.
-- **Cross-Site Scripting (XSS)**: An attack that injects malicious scripts into content from otherwise trusted websites.
-- **Session Hijacking and Cookie Theft**: Exploiting a valid computer session to gain unauthorized access to information or services in a computer system.
-- **Zero-Day Exploits**: Attacks that target vulnerabilities in software or hardware that are unknown to the vendor or have no patch available at the time of the attack.
-- **Advanced Persistent Threats (APTs)**: Prolonged and targeted cyberattacks in which an attacker infiltrates a network and remains undetected for an extended period.
-- **Insider Threats**: Malicious threats from people within the organization, such as employees, contractors, or business associates, who have inside information concerning the organization's security practices, data, and computer systems.
-- **DNS Tunneling**: Using DNS queries and responses to carry other protocols, often for data exfiltration or command and control of compromised systems.
-- **Pass-the-Hash (PtH) Attacks**: Exploiting a feature of many authentication protocols that allows a user to log in with a hashed value of their password instead of the password itself.
-- **Credential Stuffing**: Automated injection of breached username/password pairs in order to fraudulently gain access to user accounts.
-- **Drive-by Downloads**: Unintended download of malicious code to your computer or mobile device that takes place without consent or knowledge, often when visiting a website.
-- **Rootkits**: Malware that hides its presence or the presence of other malware.
-- **Logic Bombs**: Code inserted into software systems that will set off a malicious function when specified conditions are met.
-- **Botnets**: Networks of private computers infected with malicious software and controlled as a group without the owners' knowledge, e.g., to send spam.
-
+- **Phishing Attacks**.
+- **Man-in-the-Middle (MitM) Attacks**.
+- **Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks**.
+- **SQL Injection**.
+- **Cross-Site Scripting (XSS)**.
+- **Session Hijacking and Cookie Theft**.
+- **Zero-Day Exploits**.
+- **Advanced Persistent Threats (APTs)**.
+- **Insider Threats**.
+- **DNS Tunneling**.
+- **Pass-the-Hash (PtH) Attacks**.
+- **Credential Stuffing**.
+- **Drive-by Downloads**.
+- **Rootkits**.
+- **Logic Bombs**.
+- **Botnets**.
 
 ## Supported Operating Systems
 - Linux
