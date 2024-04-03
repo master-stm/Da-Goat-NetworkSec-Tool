@@ -44,8 +44,6 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 ## Challenges Faced
 - Integrating a comprehensive suite like the Da-Goat-Network-Tool posed significant challenges, especially in harmonizing diverse components into a unified platform within 2days frame. Our pursuit of precise threat detection with minimal false positives demanded relentless testing and meticulous refinement of our AI and ML models. Effective collaboration and communication within our diverse team were instrumental in navigating these hurdles successfully.
 
-## Resources and Open Source Projects Utilized
-[This section will list any resources, reference materials, or open-source projects that have contributed to the development of this project.]
 
 ## Acknowledgments
 - Dr. Omar Y Adam aka "THE CS LEGEND" from KCST
@@ -58,7 +56,7 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 - Eng. Rami Alghul from F5
 - Mr. Saleh Burizq from NCSCKW
 - Dr. Mark Gregory from RMIT
-- Othman Aldhufar student @KCST
+- Othman Aldhufari student @KCST
 - @stampram github
 - @oliviagallucci github
 - Mr. Bashar Al-abdulhadi from KUWAITNET
