@@ -40,10 +40,10 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 - Expanding integration with cloud-based services for real-time threat intelligence sharing.
 - Advancing AI models to further refine detection accuracy.
 - Developing a user-friendly dashboard for enriched real-time monitoring and alerting capabilities.
+- Expanding integration with blockchain by using blockchain consensu merkle tree root hash. Consensus mechanisms like Proof-of-Work (PoW) or Proof-of-Stake (PoS) ensure the immutability and reliability of the data.
 
 ## Challenges Faced
 - Integrating a comprehensive suite like the Da-Goat-Network-Tool posed significant challenges, especially in harmonizing diverse components into a unified platform within 2days frame. Our pursuit of precise threat detection with minimal false positives demanded relentless testing and meticulous refinement of our AI and ML models. Effective collaboration and communication within our diverse team were instrumental in navigating these hurdles successfully.
-
 
 ## Acknowledgments
 - Dr. Omar Y Adam aka "THE CS LEGEND" from KCST
