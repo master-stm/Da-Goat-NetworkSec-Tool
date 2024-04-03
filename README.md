@@ -1,8 +1,7 @@
 # Da-Goat-Network-Tool
 
 ## Overview
-
-Da-Goat-Network-Tool combines a Network Scanner, Packet Sniffer, Packet Analyzer, and NIDS (Network Intrusion Detection System), encompassing both misuse and anomaly detection capabilities. This project is an initiative by Team 12, known as IDS Sorcerers, during the 2nd Ghabgathon 2024, hosted by KCST.
+Welcome to the **Da-Goat-Network-Tool**, a comprehensive network analysis suite crafted with precision and innovation by **Team 12, the IDS Sorcerers**, for the 2nd Ghabgathon 2024, hosted by KCST. Engineered to address the multifaceted challenges of network security, our suite integrates advanced tools including a Network Scanner, Packet Sniffer, Packet Analyzer, and a robust NIDS (Network Intrusion Detection System) with both misuse and anomaly detection capabilities. Harnessing the power of AI and ML algorithms, combined with cutting-edge data analytics methodologies like decision trees, neural networks, and Weka, we offer an unparalleled solution in network security :)
 
 ### Team Members
 - Omar Theeb
@@ -13,42 +12,56 @@ Da-Goat-Network-Tool combines a Network Scanner, Packet Sniffer, Packet Analyzer
 ## Project Description
 
 ### Problem Statement
-
-[Here, you would describe the specific network security challenges or issues your tool aims to address.]
+In the ever-evolving digital age, networks face increasing vulnerabilities to a diverse range of security threats. With cyber-attacks growing in sophistication, traditional security tools lag in providing the necessary defense, highlighting the urgent need for a more dynamic and comprehensive approach.
 
 ### Proposed Solution
+The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifaceted network security solution. By seamlessly integrating network scanning, packet sniffing, packet analyzing, and intrusion detection, our tool offers an exhaustive analysis of network traffic. It adeptly identifies potential vulnerabilities through misuse and anomaly detection with success rate reaches +95%, while the server-based NIDS component further elevates security measures by incorporating firewall functionalities and advanced threat classification techniques.
 
-[Provide a summary of how your tool addresses the problem, its unique approach, or any innovative aspects it brings to the field of network security.]
-
-### Libraries and Technologies Used
-
-[List all libraries, frameworks, and technologies used in the development of this tool, including any software or hardware requirements.]
+## Libraries and Technologies Used
+- **Programming Languages**: Python and Javascript.
+- **ANOMILY and MISUSE Based IDS**: decision trees and neural networks, pandass, numpy, concurrent.features, math, tensorflow, csv, rrnf, threading, typing, dict, Scikit-learn(sklearn), Weka.
+- **Server Based IDS**: optparse, os, platform, threading, time, traceback, threading, struct, socket, re, platform, optparse, mmap, inspect, cProfile
+- **Packet Analysis**: pyshark, custom tkinter, threading, massege box, metasploit, beautiful soup, psutil, subprocess.
+- **Network Scanning and Packet Sniffing**: Developed with Python's Scapy library.
+- **Operating System for Development**: Windows (10 Pro).
 
 ## Features
-
-[Detail the key features of your tool, including its capabilities in network scanning, packet sniffing, analysis, and intrusion detection.]
+- **Packet Sniffer**: Captures packets from any selected network adapter, preserving data for subsequent analysis.
+- **Packet Analyzer**: Delivers comprehensive packet analysis with sophisticated filtering capabilities, powered by Wireshark.
+- **Network Scanner**: Efficiently scans and catalogs all devices and services within a network.
+- **NIDS**: Features a dual-mode Intrusion Detection System for both misuse and anomaly detection, complemented by a server-based NIDS for an exhaustive traffic analysis, classification, and representation.
 
 ## Supported Operating Systems
-
-[Specify which operating systems your tool is compatible with, including versions if applicable.]
+- Linux
+- Windows 10 and above
+- MacOS (Mojave and above)
 
 ## Future Enhancements
-
-[Outline any planned enhancements or directions for future development.]
+- Expanding integration with cloud-based services for real-time threat intelligence sharing.
+- Advancing AI models to further refine detection accuracy.
+- Developing a user-friendly dashboard for enriched real-time monitoring and alerting capabilities.
 
 ## Challenges Faced
-
-[Discuss any significant challenges encountered during the development process and how they were overcome.]
+- Integrating a comprehensive suite like the Da-Goat-Network-Tool posed significant challenges, especially in harmonizing diverse components into a unified platform within 2days frame. Our pursuit of precise threat detection with minimal false positives demanded relentless testing and meticulous refinement of our AI and ML models. Effective collaboration and communication within our diverse team were instrumental in navigating these hurdles successfully.
 
 ## Resources and Open Source Projects Utilized
-
-[List any resources, reference materials, or open-source projects that contributed to this project.]
+[This section will list any resources, reference materials, or open-source projects that have contributed to the development of this project.]
 
 ## Acknowledgments
-
-[Express gratitude to individuals, organizations, or resources that played a key role in the project's success.]
-
+- Dr. Omar Y Adam aka "THE CS LEGEND" from KCST
+- @EVTDAnI github
+- Dr. Murad Khan from KCST
+- Dr. Basil Alothman from KCT
+- Dr. Abdullatif Baba from KCST
+- Dr. Belal Ali from Paloalto
+- Eng. Abdulrehman Serhan from KCST
+- Eng. Rami Alghul from F5
+- Mr. Saleh Burizq from NCSCKW
+- Dr. Mark Gregory from RMIT
+- Othman Aldhufar student @KCST
+- @stampram github
+- @oliviagallucci github
+- Mr. Bashar Al-abdulhadi from KUWAITNET
 ---
 
-For more detailed documentation, installation instructions, and usage examples, please refer to [further sections/documents] or visit our [Wiki/Documentation page].
-
+For a more in-depth exploration of our documentation, installation instructions, and usage examples, please refer to [further sections/documents] or visit our [Wiki/Documentation page].
