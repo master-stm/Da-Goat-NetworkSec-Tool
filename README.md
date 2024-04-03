@@ -29,11 +29,20 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 
 ## Datasets Used
 - All datasets used in the ANOMILY and MISUSE Based IDS are available on its data folder
+- 
 ## Features
 - **Packet Sniffer**: Captures packets from any selected network adapter, preserving data for subsequent analysis.
 - **Packet Analyzer**: Delivers comprehensive packet analysis with sophisticated filtering capabilities, powered by Wireshark.
 - **Network Scanner**: Efficiently scans and catalogs all devices and services within a network.
 - **NIDS**: Features a dual-mode Intrusion Detection System for both misuse and anomaly detection, complemented by a server-based NIDS for an exhaustive traffic analysis, classification, and representation (IDS with accuracy rates of 94.4% for misuse detection and 99.0% for anomaly detection).
+- **Advanced Real-Time Monitoring**: The tool provides real-time analysis and monitoring of network traffic.
+- **Customizable Alerts**: Users can configure custom alerts based on specific parameters or threat levels. 
+- **Deep Packet Inspection (DPI)**: Leveraging sophisticated DPI technology, the tool offers detailed analysis of the data part of a packet, going beyond basic header information.
+- **Automated Threat Response**: Integrating with existing security protocols and systems, the suite can automate responses to identified threats, from isolating affected systems to blocking malicious traffic.
+- **Comprehensive Reporting and Analytics**: The suite comes with powerful reporting tools that compile detailed analyses and summaries of network traffic, security incidents, and system performance.
+- **User and Entity Behavior Analytics (UEBA)**: By employing UEBA, the tool can detect anomalies in user behavior that could indicate insider threats or compromised accounts.
+- **Secure Configuration Management**: It assists in maintaining optimal security settings across network devices and software, providing guidance on secure configurations and alerting administrators to changes that could introduce vulnerabilities.
+
 
 ## Attacks Coverd
 - **Malware**: This includes viruses, worms, trojan horses, ransomware, spyware, adware, and fileless malware.
