@@ -33,9 +33,27 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 - **Packet Sniffer**: Captures packets from any selected network adapter, preserving data for subsequent analysis.
 - **Packet Analyzer**: Delivers comprehensive packet analysis with sophisticated filtering capabilities, powered by Wireshark.
 - **Network Scanner**: Efficiently scans and catalogs all devices and services within a network.
-- **NIDS**: Features a dual-mode Intrusion Detection System for both misuse and anomaly detection, complemented by a server-based NIDS for an exhaustive traffic analysis, classification, and representation (IDS with accuracy rates of 94.4% for misuse detection and 99.0% for anomaly detection
+- **NIDS**: Features a dual-mode Intrusion Detection System for both misuse and anomaly detection, complemented by a server-based NIDS for an exhaustive traffic analysis, classification, and representation (IDS with accuracy rates of 94.4% for misuse detection and 99.0% for anomaly detection).
 
-).
+## Attacks Coverd
+- **Malware**: This includes viruses, worms, trojan horses, ransomware, spyware, adware, and fileless malware.
+- **Phishing Attacks**: Fraudulent attempts to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in an electronic communication.
+- **Man-in-the-Middle (MitM) Attacks**: These occur when attackers intercept and possibly alter the communication between two parties who believe they are directly communicating with each other.
+- **Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks**: DoS attacks overwhelm a system's resources, making it unable to respond to service requests, while DDoS attacks come from multiple sources, making them harder to block.
+- **SQL Injection**: An attack that involves inserting malicious SQL queries into an input field for execution, to manipulate or exploit the database behind the application.
+- **Cross-Site Scripting (XSS)**: An attack that injects malicious scripts into content from otherwise trusted websites.
+- **Session Hijacking and Cookie Theft**: Exploiting a valid computer session to gain unauthorized access to information or services in a computer system.
+- **Zero-Day Exploits**: Attacks that target vulnerabilities in software or hardware that are unknown to the vendor or have no patch available at the time of the attack.
+- **Advanced Persistent Threats (APTs)**: Prolonged and targeted cyberattacks in which an attacker infiltrates a network and remains undetected for an extended period.
+- **Insider Threats**: Malicious threats from people within the organization, such as employees, contractors, or business associates, who have inside information concerning the organization's security practices, data, and computer systems.
+- **DNS Tunneling**: Using DNS queries and responses to carry other protocols, often for data exfiltration or command and control of compromised systems.
+- **Pass-the-Hash (PtH) Attacks**: Exploiting a feature of many authentication protocols that allows a user to log in with a hashed value of their password instead of the password itself.
+- **Credential Stuffing**: Automated injection of breached username/password pairs in order to fraudulently gain access to user accounts.
+- **Drive-by Downloads**: Unintended download of malicious code to your computer or mobile device that takes place without consent or knowledge, often when visiting a website.
+- **Rootkits**: Malware that hides its presence or the presence of other malware.
+- **Logic Bombs**: Code inserted into software systems that will set off a malicious function when specified conditions are met.
+- **Botnets**: Networks of private computers infected with malicious software and controlled as a group without the owners' knowledge, e.g., to send spam.
+
 
 ## Supported Operating Systems
 - Linux
@@ -47,6 +65,7 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 - Advancing AI models to further refine detection accuracy.
 - Developing a user-friendly dashboard for enriched real-time monitoring and alerting capabilities.
 - Expanding integration with blockchain by using blockchain consensu merkle tree root hash. Consensus mechanisms like Proof-of-Work (PoW) or Proof-of-Stake (PoS) ensure the immutability and reliability of the data.
+- Integrating this system with one of the best networksec products "ZTNA 2:0" from the famous org. Paloalto
 
 ## Challenges Faced
 - Integrating a comprehensive suite like the Da-Goat-Network-Tool posed significant challenges, especially in harmonizing diverse components into a unified platform within 2days frame. Our pursuit of precise threat detection with minimal false positives demanded relentless testing and meticulous refinement of our AI and ML models. Effective collaboration and communication within our diverse team were instrumental in navigating these hurdles successfully.
