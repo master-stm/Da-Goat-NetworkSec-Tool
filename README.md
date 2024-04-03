@@ -63,5 +63,3 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 - @oliviagallucci github
 - Mr. Bashar Al-abdulhadi from KUWAITNET
 --------------------------------------------
-
-For a more in-depth exploration of our documentation, installation instructions, and usage examples, please refer to [further sections/documents] or visit our [Wiki/Documentation page].
