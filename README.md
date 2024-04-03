@@ -4,10 +4,10 @@
 Welcome to the **Da-Goat-Network-Tool**, a comprehensive network analysis suite crafted with precision and innovation by **Team 12, the IDS Sorcerers**, for the 2nd Ghabgathon 2024, hosted by KCST. Engineered to address the multifaceted challenges of network security, our suite integrates advanced tools including a Network Scanner, Packet Sniffer, Packet Analyzer, and a robust NIDS (Network Intrusion Detection System) with both misuse and anomaly detection capabilities. Harnessing the power of AI and ML algorithms, combined with cutting-edge data analytics methodologies like decision trees, neural networks, and Weka, we offer an unparalleled solution in network security :)
 
 ### Team Members
-- Omar Theeb @KCST
-- Ahmad Maher @KCST
-- Roshdi Aldebeki @KCST
-- Salem AbdulNabi @KCST
+- **Omar Theeb** @KCST
+- **Ahmad Maher** @KCST
+- **Roshdi Aldebeki** @KCST
+- **Salem AbdulNabi** @KCST
   
 #### Note: Please refere to each sub-project readme file to get the most of this repo + all tecchnical details are coverd in each sub-project readme file.
 
