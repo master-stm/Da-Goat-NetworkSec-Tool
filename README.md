@@ -25,11 +25,15 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 - **Network Scanning and Packet Sniffing**: Developed with Python's Scapy library.
 - **Operating System for Development**: Windows (10 Pro).
 
+## Datasets Used
+- All datasets used in the ANOMILY and MISUSE Based IDS are available on its data folder
 ## Features
 - **Packet Sniffer**: Captures packets from any selected network adapter, preserving data for subsequent analysis.
 - **Packet Analyzer**: Delivers comprehensive packet analysis with sophisticated filtering capabilities, powered by Wireshark.
 - **Network Scanner**: Efficiently scans and catalogs all devices and services within a network.
-- **NIDS**: Features a dual-mode Intrusion Detection System for both misuse and anomaly detection, complemented by a server-based NIDS for an exhaustive traffic analysis, classification, and representation.
+- **NIDS**: Features a dual-mode Intrusion Detection System for both misuse and anomaly detection, complemented by a server-based NIDS for an exhaustive traffic analysis, classification, and representation (IDS with accuracy rates of 94.4% for misuse detection and 99.0% for anomaly detection
+
+).
 
 ## Supported Operating Systems
 - Linux
@@ -45,8 +49,13 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 ## Challenges Faced
 - Integrating a comprehensive suite like the Da-Goat-Network-Tool posed significant challenges, especially in harmonizing diverse components into a unified platform within 2days frame. Our pursuit of precise threat detection with minimal false positives demanded relentless testing and meticulous refinement of our AI and ML models. Effective collaboration and communication within our diverse team were instrumental in navigating these hurdles successfully.
 
+## Connection Instruction
+- Once I have time I will write the
+
 ## Acknowledgments
 - Dr. Omar Y Adam aka "THE CS LEGEND" from KCST
+- Mr. Derek Chen (@dc8866) - https://www.linkedin.com/in/yinon-chan
+- Ms. Olivia Gallucci (@oliviagallucci) - https://oliviagallucci.com
 - @EVTDAnI github
 - Dr. Murad Khan from KCST
 - Dr. Basil Alothman from KCT
