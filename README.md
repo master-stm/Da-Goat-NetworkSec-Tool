@@ -78,7 +78,7 @@ The Da-Goat-Network-Tool emerges as a beacon of innovation, delivering a multifa
 ## Challenges Faced
 - Integrating a comprehensive suite like the Da-Goat-Network-Tool posed significant challenges, especially in harmonizing diverse components into a unified platform within 2days frame. Our pursuit of precise threat detection with minimal false positives demanded relentless testing and meticulous refinement of our AI and ML models. Effective collaboration and communication within our diverse team were instrumental in navigating these hurdles successfully.
 
-## Usage Steps
+## Usage and setup Steps
 - Once I have time I will write it :)
 
 ## Acknowledgments
